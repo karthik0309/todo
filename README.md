@@ -6,7 +6,7 @@
 *   run npm install(to install dependencies in package.json)
 *   run npm start(starts app in localHost:3000)
 ## TodoList
-* usded context api
+* used context api
 * useReducer
 * styled components
 * themeProvider for changing theme
